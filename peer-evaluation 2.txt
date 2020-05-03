@@ -1,0 +1,61 @@
+Name: Emily Laszlo
+Date:05/02/2020
+
+Project: The Fed
+Group's repository: https://github.com/banane42/C220-Final
+
+
+
+What is something you learned by reviewing this group's project?
+
+This game shows that something seemingly simple by appearance can contrast complex themes. While the game primarily utilized button, labels, and signals the game and it’s theme were complex and fast-paced. This made it a lot different than what I was expecting, and made the player want to  retry multiple times to get the different endings.
+
+ 
+
+In what ways does this game reflect the theme?
+
+I thought that this approach to the theme was very interesting and refreshing. Instead of doing something comical or very fantastical, it went more realistic. While a lot of people could think about the virus or toilet paper when approaching a corona themed game, doing a fast-paced themed thats economically based was cool to see.
+
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+I would like to try a similar visual interface with a text adventure. 
+
+ 
+
+What suggestions would you have for this group to improve the game?
+
+It would be cool to increase the number of endings available in the game (which I think was mentioned by the creator in the READ.ME. Otherwise, I enjoyed how succinct it was.
+
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+I wouldn’t say that anything was necessarily confusing in the choices they made, more that I am not used to the type of game and the similar functions throughout. As well, I am not as used to seeing something so much more involved from a random number generator game.
+
+
+Is it clear that every group member participated?
+
+From what I understand, it was done by one person. So yes, I thought they were very successful in the challenge for, especially being on their own
+
+ 
+
+Does the repository contain an appropriate LICENSE?
+
+Yes
+
+
+What is something the group could add to the README.md to make it more descriptive?
+
+I thought that the READ.ME was sufficient given the length of the game. However, I guess it could mention something about the multiple endings further up instead of in the “creator comments” towards the bottom. 
+
+
+Pay a compliment to the group based on the quality of the game.
+
+I thought this was an ingenious way to make something different for the given theme, as they could’ve gone down a more generic route. I also really appreciated how the game made me anxious (in a good way) by making it autoplay right away, it added another layer of urgency that really fit the way you took the theme. Also the fact it was done solo, Kudos!
+
+
+How many of your points would you allocate to this project?
+
+5
